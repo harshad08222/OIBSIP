@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tribute to Hong Kong</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f5f5f5;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    p {
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Tribute to Hong Kong</h1>
+  </header>
+
+  <div class="container">
+    <h2>About Hong Kong</h2>
+    <p>Hong Kong is a vibrant city known for its stunning skyline, bustling harbor, and rich cultural heritage.</p>
+    <p>It is a major global financial hub and a melting pot of cultures, where traditional and modern elements coexist.</p>
+
+    <h2>Landmarks</h2>
+    <p>Some of the iconic landmarks include Victoria Harbour, Victoria Peak, and the Avenue of Stars.</p>
+    <img src="hongkong.jpg" alt="Victoria Harbour">
+
+    <h2>Cuisine</h2>
+    <p>Hong Kong offers a diverse culinary scene, from street food stalls to world-class restaurants serving dim sum, seafood, and more.</p>
+
+    <h2>Culture</h2>
+    <p>The city celebrates various festivals, such as the Mid-Autumn Festival and Chinese New Year, with colorful parades and performances.</p>
+  </div>
+</body>
+</html>
